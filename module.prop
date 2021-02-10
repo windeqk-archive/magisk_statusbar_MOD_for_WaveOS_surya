@@ -1,7 +1,6 @@
-id=Statusbar-MOD-by-windeqk
-name=Statusbar WaveOS MOD
-version=v0.0.1
+id=Statusbar-MOD
+name=Statusbar MOD for WaveOS
+version=v0.3
 versionCode=1
 author=windeqk
-description=No_masz_niższy_statusbar_w_WaveOS
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+description=Zmniejsza przerwe w statusbar od kranca do holepunch
