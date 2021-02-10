@@ -7,7 +7,8 @@
 Module build for ROMs witch: [WaveOS vendor](https://github.com/Wave-Project/vendor_xiaomi_surya)
 
 
-<h2 align="center">Source</h2h1>
-
+<p>
+  
 [**Template from**](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
 
+</p>
