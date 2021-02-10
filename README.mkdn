@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Magisk module (windeqk)</h1>
+<h1 align="center">Magisk module @windeqk</h1>
 
 ### Make statusbar great again!
 
